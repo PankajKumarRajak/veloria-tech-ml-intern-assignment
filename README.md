@@ -136,15 +136,6 @@ Who won matches at Wankhede Stadium?
 
 ---
 
-## Future Improvements
-
-- Integrate Gemini API
-- Add LLM-generated answers
-- Deploy using Streamlit
-- Add Vector Database Optimization
-
----
-
 ## Author
 
 Pankaj
